@@ -2,7 +2,7 @@
 
 Cilj projekta je implementirati sustav računalnog vida koji može automatski segmentirati i prebrojati objekte na slici (npr. kovanice, stanice, zrna) koristeći **Watershed transformaciju** za razdvajanje objekata koji se dodiruju.
 
-## 📋 O Projektu
+##  O Projektu
 
 Watershed (algoritam vododjelnice) je klasičan algoritam za segmentaciju slike, posebno koristan kada se objekti na slici dodiruju ili preklapaju. Tretira sliku kao topografsku kartu gdje intenzitet piksela predstavlja nadmorsku visinu.
 
@@ -13,7 +13,7 @@ Watershed (algoritam vododjelnice) je klasičan algoritam za segmentaciju slike,
 * Kreiranje markera za Watershed algoritam.
 * Konačna segmentacija i ispis broja detektiranih objekata.
 
-## 🛠 Tehnologije
+##  Tehnologije
 
 Projekt je realiziran koristeći:
 * **Jezik:** Python 3.x
@@ -22,7 +22,7 @@ Projekt je realiziran koristeći:
   * `NumPy` - za matrične operacije
   * `Matplotlib` - za vizualizaciju rezultata (opcionalno)
 
-## ⚙️ Algoritam (Pipeline)
+##  Algoritam (Pipeline)
 
 Proces obrade slike sastoji se od sljedećih koraka:
 
