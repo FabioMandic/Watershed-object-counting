@@ -13,14 +13,6 @@ Watershed (algoritam vododjelnice) je klasičan algoritam za segmentaciju slike,
 * Kreiranje markera za Watershed algoritam.
 * Konačna segmentacija i ispis broja detektiranih objekata.
 
-##  Tehnologije
-
-Projekt je realiziran koristeći:
-* **Jezik:** Python 3.x
-* **Biblioteke:**
-  * `OpenCV` (cv2) - za obradu slike
-  * `NumPy` - za matrične operacije
-  * `Matplotlib` - za vizualizaciju rezultata (opcionalno)
 
 ##  Algoritam (Pipeline)
 
